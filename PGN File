@@ -1,0 +1,27 @@
+[Event: "Grand Chess Tour Croatia Rapid & Blitz 2021"]
+[Site: "Chess.com"]
+[Date: "2021.07.10"]
+[Round: "11"]
+[White: "Anand, Viswanathan"]
+[Black: "Duda, Jan-Krzysztof"]
+[Result: "1-0"]
+[WhiteFideId: "5000017"]
+[BlackFideId: "1170546"]
+[WhiteElo: "2785"]
+[BlackElo: "2799"]
+[TimeControl: "300+1"]
+[WhiteClock: "0:00:41"]
+[BlackClock: "0:00:01"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Nf3 Qa5+ 8. Nbd2
+Nh6 9. O-O Be7 10. c4 Nf5 11. g3 Na6 12. b3 Rd8 13. Bb2 c5 14. cxd5 Nb4 15. Qe4
+Nxd5 16. Nc4 Qa6 17. dxc5 Bxc5 18. Kh2 b5 19. Ncd2 Nb4 20. Qe2 Nc2? ± {MISTAKE
+(+4.15)} ({(0.00) The best move was} 20... O-O 21. Ne4 Be7 22. Nf6+ Bxf6 23.
+exf6 g6 24. Ne5 Nc6 25. Rfd1 Nxe5 26. Bxe5 Qb7 27. Rxd8 Rxd8 28. Rd1 Rc8 29. b4
+Qb6 30. Rd7 a5 31. bxa5 Qxa5) 21. Ne4 {Critical move.} 21... Nxa1 22. Nxc5 Qc6
+23. Rc1 O-O 24. Ne4 Qb6 25. Rxa1 Rc8 26. Nfg5 g6 {INACCURACY (+6.93)} ({(+5.17)
+The best move was} 26... Rfd8 27. Qxh5 Nh6 28. Qe2 Rd5 29. Nd6 Rc7 30. Rf1 Qc6
+31. Rc1 Rc5 32. Rxc5 Qxc5 33. Kg1 Qd5 34. Ba3 Rc3) 27. Nf6+ Kg7 28. Nd7 (28. Nd7
+Qa5 29. Nxf8 Rxf8 30. Ne4 Rd8 31. Nd6 Kg8 32. Rd1 Qb6 33. Rd2 Qa5 34. Bc1 Nxd6
+35. exd6 b4 36. Bb2 Qf5 37. Qe5 Qxe5) 1-0
+
